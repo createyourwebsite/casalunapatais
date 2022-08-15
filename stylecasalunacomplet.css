@@ -2,7 +2,7 @@
 /*arrière plan*/
 
 html{
-       background-image: url('https://github.com/createyourwebsite/casalunapatais/blob/main/Background3.png');
+       background-image: url('./Background3.png');
        font-family: "Montserrat", sans-serif;
        background-attachment: fixed;
        background-size: 100% 100%;
