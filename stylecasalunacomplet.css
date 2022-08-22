@@ -170,6 +170,7 @@ margin-top: 120px;
   left: 100%;
   z-index: 10;
   transition: left 0s 0.75s;
+  border-radius: 50px;
 }
 [id^="slide"]:checked + .slide-img {
   left: 0;
