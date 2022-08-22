@@ -271,7 +271,8 @@ a:hover{
 	
 	height: auto;
 	width: 370px;
-	
+	border-top-left-radius: 50px;
+	border-top-right-radius: 50px;
 }
 
 span,h1,h2,h3,h4,h5,h6{
